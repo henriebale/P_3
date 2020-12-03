@@ -14,3 +14,6 @@ Create a test script for ex 3
 
 Ex5
 Everithing in a class
+
+
+Files included are the subtitle file and the resulting files I obtained tunning the script
